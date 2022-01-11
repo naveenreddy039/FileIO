@@ -1,0 +1,8 @@
+FirstName="Naveen",
+LastName="Reddy",
+Address="Udayagiri",
+City="Nellore",
+State="Andhra Pradesh",
+Zip="524226",
+PhoneNumber="8309294800",
+Email="naveenreddy.k07@gmail".Hello World- .Net is awasome

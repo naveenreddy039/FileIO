@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.exe
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.deps.json
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.runtimeconfig.json
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.dll
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\bin\Debug\netcoreapp3.1\Address13FileIO.pdb
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.AssemblyInfo.cs
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.dll
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.pdb
+C:\Users\hp\source\repos\Address13FileIO\Address13FileIO\obj\Debug\netcoreapp3.1\Address13FileIO.genruntimeconfig.cache
