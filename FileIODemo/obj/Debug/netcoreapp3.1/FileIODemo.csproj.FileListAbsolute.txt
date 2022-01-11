@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.exe
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.deps.json
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.runtimeconfig.json
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.dll
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.pdb
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.dll
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.pdb
+C:\Users\hp\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.genruntimeconfig.cache
